@@ -1,7 +1,7 @@
 #### 数据编码（第六版24页）
 
 
-<details><summary> <font size="5"> 单极性码 </summary>
+<details><summary><font size="5"> 单极性码 </summary>
 
 > **基本特征：**
 > - **电平格式**：仅使用正电压（+V）和零电平（0V）表示数据
@@ -14,7 +14,8 @@
 
 </details>
     
-<details><summary> <font size="5"> 极性码 </summary>
+<details><summary><font size="5"> 极性码 </summary>
+
 > **基本特征**
 > - **电平格式**：仅使用正电压（+V）和低电平（-V）表示数据
 > 
@@ -25,7 +26,8 @@
 
 </details>
     
-<details><summary> <font size="5"> 双极性码 (AMI)</summary>
+<details><summary><font size="5"> 双极性码 (AMI) </summary>
+
 > - **基本特征**
 > - **电平格式**：0V 表示 0；而 1 则交替使用正电位 (+V) 和负电位 (-V)
 >
@@ -36,7 +38,7 @@
 
 </details>
 
-<details><summary> <font size="5"> 双相码 </summary>
+<details><summary><font size="5"> 双相码 </summary>
 
 > - **基本特征**
 > - **电平格式**：不看绝对电位，看位周期中间的跳变方向
