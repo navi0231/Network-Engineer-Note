@@ -1,6 +1,6 @@
 # network-engineer-note
 - 有使用Gemini和deepseek等ai模型
-
+- 笔记仅作为参考，不能保证时效性和可靠性，如有条件，请自购网络工程师教材第六版
 ## 许可协议与版权声明
 
 本仓库所有文档与笔记均采用 **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)** 许可授权。
